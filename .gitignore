@@ -1,0 +1,6 @@
+app/.env
+app/node_modules
+app/package-lock.json
+
+remote-printers/node_modules
+remote-printers/package-lock.json
